@@ -1,6 +1,8 @@
 # AK Games – Frontend Gaming Website
 
-AK Games is a frontend-only gaming website developed using React with inline Bootstrap utility classes for styling. The project focuses on creating a clean, and component-based user interface for a gaming platform.
+AK Games is a frontend-only gaming website developed using React with inline Bootstrap utility classes for styling.
+
+The project focuses on creating a clean, and component-based user interface for a gaming platform.
 
 The application is structured using reusable React components such as Home, Library, About, Navbar, and Footer, ensuring good code organization and scalability. Bootstrap is used for layout, spacing, and enabling rapid UI development without writing custom CSS.
 
