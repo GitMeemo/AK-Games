@@ -8,7 +8,7 @@ This project was built to strengthen frontend development skills, particularly i
 
 ![image alt](https://github.com/GitMeemo/AK-Games/blob/414b612944c621349a3afefb03ef97cfd9d0aa53/Library.png)
 
-### Features
+## Features
 
 -    Component-based architecture using React
 
@@ -22,7 +22,7 @@ This project was built to strengthen frontend development skills, particularly i
 
 -    Frontend-only project
 
-## Tech Stack
+### Tech Stack
 
 -    React.js
 
